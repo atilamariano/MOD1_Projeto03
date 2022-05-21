@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
